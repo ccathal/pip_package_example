@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="pip_package_cathal",
+    name="pip_package_example_cathal",
     version="0.0.2",
     author="Cathal Corbett",
     author_email="cathalcorbett3@gmail.com",
