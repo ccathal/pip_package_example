@@ -1,7 +1,0 @@
-README.md
-setup.py
-pip_package/__init__.py
-pip_package_cathal.egg-info/PKG-INFO
-pip_package_cathal.egg-info/SOURCES.txt
-pip_package_cathal.egg-info/dependency_links.txt
-pip_package_cathal.egg-info/top_level.txt
